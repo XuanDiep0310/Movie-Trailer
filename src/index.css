@@ -1,4 +1,4 @@
 @import "tailwindcss";
 .banner-custom {
-  background-image: url('banner.png');
+  background-image: url('/banner.png');
 }
